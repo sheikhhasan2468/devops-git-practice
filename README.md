@@ -1,4 +1,4 @@
- # Devops Git practice 
+  Devops Git practice 
  # Git Basic Command 
  # .gitignore file 
  # Git stage and un staged file 
